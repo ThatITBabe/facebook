@@ -72,11 +72,17 @@ main{
 }
 .link{
     text-decoration: none;
-    align-items: center;
+    font-weight: bold;
 }
 .form-container{
     border: 1px solid black;
     padding: 30px;
     border-radius: 5px;
     margin-top: 80px;
+}
+.forgotten{
+    text-align: center;
+}
+#celeb{
+    margin-top: 20px;
 }
